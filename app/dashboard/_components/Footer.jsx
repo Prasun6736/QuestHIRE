@@ -19,7 +19,7 @@ const Footer = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     emailjs
-      .send("api", "api", formData, "api")
+      .send("service_qovrd1e", "template_nosds8f", formData, "IWfsfRUER0fuh_d2x")
       .then(
         () => {
           alert("Message sent successfully!");
@@ -47,7 +47,7 @@ const Footer = () => {
           <div className="space-y-4 text-blue-800">
             <div className="flex items-center gap-3">
               <img
-                src="/path/to/address-icon.png"
+                src="/address.png"
                 alt="Address Icon"
                 className="w-6 h-6"
               />
@@ -59,7 +59,7 @@ const Footer = () => {
 
             <div className="flex items-center gap-3">
               <img
-                src=""
+                src="/phone.png"
                 alt="Phone Icon"
                 className="w-6 h-6"
               />
@@ -71,9 +71,9 @@ const Footer = () => {
 
             <div className="flex items-center gap-3">
               <img
-                src=""
+                src="/email.png"
                 alt="Email Icon"
-                className="w-6 h-6"
+                className="w-7 h-6"
               />
               <div>
                 <h3 className="font-bold text-blue-800">EMAIL</h3>

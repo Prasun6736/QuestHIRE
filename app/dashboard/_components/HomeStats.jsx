@@ -10,7 +10,7 @@ const HomeStats = () => {
       </div>
       <div className="p-10 grid grid-cols-1 lg:grid-cols-4 gap-8">
         {/* Step 1 */}
-        <div className="rounded-lg border-4 border-blue-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
+        <div className="rounded-lg border-4 border-purple-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
           <div className="text-lg my-4 font-semibold">
             <label className="bg-blue-600 pl-4 pr-4 py-2 rounded-full text-white text-xl">
               Step - 1
@@ -25,13 +25,13 @@ const HomeStats = () => {
         </div>
 
         {/* Step 2 */}
-        <div className="rounded-lg border-4 border-blue-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
+        <div className="rounded-lg border-4 border-purple-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
           <div className="text-lg my-4 font-semibold">
-            <label className="bg-blue-600 pl-4 pr-4 py-2 rounded-full text-white text-xl">
+            <label className="bg-purple-600 pl-4 pr-4 py-2 rounded-full text-white text-xl">
               Step - 2
             </label>
           </div>
-          <h3 className="text-xl font-bold text-blue-700 mb-4">
+          <h3 className="text-xl font-bold text-purple-700 mb-4">
           Select Your Preferred Interview Type
           </h3>
           <p className="text-lg text-gray-600">
@@ -40,7 +40,7 @@ const HomeStats = () => {
         </div>
 
         {/* Step 3 */}
-        <div className="rounded-lg border-4 border-blue-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
+        <div className="rounded-lg border-4 border-purple-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
           <div className="text-lg my-4 font-semibold">
             <label className="bg-blue-600 pl-4 pr-4 py-2 rounded-full text-white text-xl">
               Step - 3
@@ -55,7 +55,7 @@ const HomeStats = () => {
         </div>
 
         {/* Step 4 */}
-        <div className="rounded-lg border-4 border-blue-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
+        <div className="rounded-lg border-4 border-purple-500 bg-white p-6 shadow-md transition hover:shadow-lg sm:p-8">
           <div className="text-lg my-4 font-semibold">
             <label className="bg-blue-600 pl-4 pr-4 py-2 rounded-full text-white text-xl">
               Step - 4

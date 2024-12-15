@@ -1,4 +1,3 @@
-// Code by Utsav Patel
 import React from "react";
 import { FaInstagram } from "react-icons/fa6";
 import { FiGithub } from "react-icons/fi";
@@ -138,13 +137,13 @@ const page = () => {
             <div className="w-full max-w-md p-6 shadow-lg bg-white rounded-xl">
               <img
                 alt="Profile 4"
-                src="/me.jpeg"
+                src="/mypic4.jpeg"
                 className="h-52 w-52 rounded-full object-cover mx-auto"
               />
               <div className="text-center mt-4">
                 <h3 className="text-xl font-medium text-blue-600">About Me</h3>
                 <p className="mt-2 text-lg text-blue-700 font-semibold">
-                   Full-Stack and ML model Developer, specializing in frontend and building ML-MODELs.
+                  Experienced Full-Stack Developer, specializing in frontend frameworks and backend APIs.
                 </p>
                 <div className="mt-5 flex gap-3 justify-center">
                   <a
