@@ -24,7 +24,7 @@ const page = () => {
               <div className="text-center mt-4">
                 <h3 className="text-xl font-medium text-blue-600">About Me</h3>
                 <p className="mt-2 text-lg text-blue-700 font-semibold">
-                  I am Utsav Patel, the developer behind CarConnect, a marketplace platform for car buyers and sellers.
+                  xyz.. intro
                 </p>
                 <div className="mt-5 flex gap-3 justify-center">
                   <a
@@ -64,7 +64,7 @@ const page = () => {
               <div className="text-center mt-4">
                 <h3 className="text-xl font-medium text-blue-600">About Me</h3>
                 <p className="mt-2 text-lg text-blue-700 font-semibold">
-                  I am a passionate developer with experience in building real-time applications and modern UI.
+                xyz.. intro
                 </p>
                 <div className="mt-5 flex gap-3 justify-center">
                   <a
@@ -104,7 +104,7 @@ const page = () => {
               <div className="text-center mt-4">
                 <h3 className="text-xl font-medium text-blue-600">About Me</h3>
                 <p className="mt-2 text-lg text-blue-700 font-semibold">
-                  I am a React and Node.js developer with a focus on building scalable web applications.
+                xyz.. intro
                 </p>
                 <div className="mt-5 flex gap-3 justify-center">
                   <a

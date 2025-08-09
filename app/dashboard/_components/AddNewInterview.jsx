@@ -121,7 +121,7 @@ function AddNewInterview() {
           )}
           <Button
             onClick={() => setOpenDialog(true)}
-            className="w-full rounded-md bg-slate-600 hover:bg-slate-700"
+            className="w-full rounded-md bg-blue-600 hover:bg-blue-700"
           >
             Create New Interview +
           </Button>
